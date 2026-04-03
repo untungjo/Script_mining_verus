@@ -27,3 +27,4 @@ cat > config.json << 'EOF'
 EOF
 
 bash ~/ccminer/start.sh
+
